@@ -1,0 +1,16 @@
+product_category,origin_city,destination_city,shipping_method,distance_km,traffic_level,weather,delivery_time_days
+Electronics,Mumbai,Delhi,Air,1400,Medium,Clear,2
+Clothing,Bangalore,Chennai,Ground,350,High,Rain,4
+Groceries,Delhi,Jaipur,Ground,280,Low,Clear,2
+Electronics,Hyderabad,Kolkata,Air,1500,Medium,Clear,3
+Furniture,Pune,Mumbai,Ground,150,High,Rain,3
+Clothing,Delhi,Lucknow,Ground,500,Medium,Fog,3
+Groceries,Chennai,Bangalore,Ground,350,Low,Clear,2
+Electronics,Kolkata,Delhi,Air,1500,High,Storm,4
+Furniture,Jaipur,Mumbai,Ground,1100,Medium,Clear,5
+Clothing,Mumbai,Ahmedabad,Ground,530,Low,Clear,2
+Electronics,Bangalore,Delhi,Air,1700,Medium,Clear,3
+Groceries,Hyderabad,Pune,Ground,560,Low,Clear,2
+Furniture,Delhi,Kolkata,Ground,1500,High,Fog,6
+Clothing,Chennai,Hyderabad,Ground,630,Medium,Rain,3
+Electronics,Mumbai,Bangalore,Air,980,Low,Clear,2
